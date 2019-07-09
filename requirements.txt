@@ -1,0 +1,6 @@
+fauxfactory
+selenium
+pytest
+pytest-repeat
+pytest-webdriver
+pytest-xdist

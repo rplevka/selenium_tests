@@ -2,5 +2,5 @@ fauxfactory
 selenium
 pytest
 pytest-repeat
-pytest-webdriver
+pytest-selenium
 pytest-xdist
